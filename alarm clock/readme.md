@@ -10,3 +10,6 @@
 
 ### Alarm Alert
 ![chrome_LMXRRMyDDj](https://user-images.githubusercontent.com/72276430/174351956-65a9f957-394d-4dde-93f0-4bff3658bb58.png)
+
+##Alarm List
+![chrome_cal5YOKKrO](https://user-images.githubusercontent.com/72276430/176996918-38291300-4419-4c60-bd66-e28a25a7bf00.png)
